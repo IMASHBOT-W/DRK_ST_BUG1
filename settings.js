@@ -13,11 +13,11 @@ global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
 global.botname = 'DRK_ST_BUG' //name of the bot
 
 //sticker details
-global.packname = '🗾'
+global.packname = '𝗗𝗔𝗥𝗞-𝗕𝗨𝗚'
 global.author = '𝙎-𝙏𝞢𝞜'
 
 //console view/theme
-global.themeemoji = '🗾'
+global.themeemoji = '🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑'
 global.wm = "𝙎-𝙏𝞢𝞜"
 
 //theme link
@@ -29,7 +29,7 @@ global.prefa = ['']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
